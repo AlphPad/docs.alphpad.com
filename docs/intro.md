@@ -1,48 +1,31 @@
 ---
 sidebar_position: 1
+title: Introduction
+description: AlphaPad The Premier Launchpad on Alephium - Elevating Projects to New Heights!
 slug: /
 ---
 
-# Tutorial Intro
+# About AlphPad
 
-Let's discover **Docusaurus in less than 5 minutes**.
+AlphPad is poised to redefine project launching within the Alephium
+ecosystem. This advanced launchpad platform combines ease of use with a
+comprehensive, secure, and efficient system, designed to benefit both project developers
+and investors.
 
-## Getting Started
+## Mission
 
-Get started by **creating a new site**.
+AlphPad aims to streamline project launches within the Alephium
+ecosystem, providing a secure, user-friendly platform that aligns project creators with
+investors, fostering innovation and trust.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Vision
 
-### What you'll need
+To be the leading launchpad in the Alephium ecosystem, renowned for transforming
+project launches through advanced, adaptable, and accessible technology
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## Values
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- Accessibility: Open to all, simple to navigate.
+- Ease: User-centric design for effortless interactions.
+- Fairness: Transparent operations, honest dealings.
+- Opportunity: Equal chances for every user to thrive.
