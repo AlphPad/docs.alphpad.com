@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 title: Introduction
-description: AlphaPad The Premier Launchpad on Alephium - Elevating Projects to New Heights!
+description: AlphPad The Premier Launchpad on Alephium - Elevating Projects to New Heights!
 slug: /
 ---
 

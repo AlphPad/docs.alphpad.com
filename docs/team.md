@@ -1,7 +1,7 @@
 ---
-sidebar_position: 7
+sidebar_position: 9
 title: Team
-description: AlphaPad The Premier Launchpad on Alephium - Elevating Projects to New Heights!
+description: AlphPad The Premier Launchpad on Alephium - Elevating Projects to New Heights!
 ---
 
 # Team members

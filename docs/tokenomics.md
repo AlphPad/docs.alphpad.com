@@ -1,16 +1,22 @@
 ---
 sidebar_position: 4
 title: Tokenomics
-description: AlphaPad The Premier Launchpad on Alephium - Elevating Projects to New Heights!
+description: AlphPad The Premier Launchpad on Alephium - Elevating Projects to New Heights!
 ---
 
 # Tokenomics
 
-Total tokens : 100 million ($APAD)
-Distribution :
-- Team: 15 million - Staked.
-- Marketing: 5 million - Immediately liquid.
-- Liquidity - 20 million - Paired with $ALPH.
-- Token sale : 60 million - Unsold tokens will be burned.
+**Token Allocation:**
+
+- **Total Supply:** 100 million ($APAD).
+
+**Distribution Breakdown:**
+
+- **Token Sale:** 60 million - Unsold tokens will be burned.
+- **Liquidity Pool:** 20 million - Paired with $ALPH.
+- **Team:** 15 million - Locked and staked.
+- **Marketing:** 5 million - Immediately liquid.
+
+
 
 ![Distribution](/img/tokendistribution.png)
