@@ -43,12 +43,11 @@ const config = {
         disableSwitch: true,
         respectPrefersColorScheme: false,
       },
-      image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'AlphPad Docs',
         logo: {
           alt: 'AlphPad Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
           {
