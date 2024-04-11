@@ -16,7 +16,7 @@ From its inception, AlphPad has been meticulously crafted to offer a robust and 
 - **Token Launchpad:** AlphPad's primary offering is its launchpad for IDOs, providing a reliable and transparent platform for emerging blockchain projects.
 - **Reward Distribution Mechanism:** A standout feature of AlphPad is its reward distribution system, which accumulates rewards in a pool and disburses them over 100 days. This approach ensures a fair and sustained reward flow to participants.
 - **Staking Dynamics:** The platform introduces a 10-day unstaking period, a measure designed to enhance staking security and manage liquidity efficiently.
-- **Revenue Sharing Model:** Stakers benefit from 5% of the revenues from successful IDO revenues plus listing fees, directly linking their rewards to the platform’s performance.
+- **Revenue Sharing Model:** Stakers earn 5% of all funds raised through successful IDOs on the platform, directly tying their rewards to its success. The remaining 95% goes to the IDO sellers. Additionally, all listing fees are fully distributed to the stakers, further incentivizing their contribution to the platform's growth.
 - **Governance and Protocol Changes:** In a bid to ensure community involvement in governance, AlphPad introduces a 14-day delay in implementing protocol changes, allowing ample time for community review and feedback.
 - **Team Token Vesting:** Aligning with long-term project success, team tokens are vested linearly over a four-year period, ensuring a sustained commitment to the platform's growth.
 - **Case-by-Case Staker Benefits:** AlphPad considers additional benefits for stakers during platform token sales, aiming to tailor incentives to specific project needs and contexts.
