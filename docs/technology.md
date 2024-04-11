@@ -1,48 +1,50 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 title: Technology
 description: AlphPad The Premier Launchpad on Alephium - Elevating Projects to New Heights!
 ---
 
 # Technology
 
-## 1. **Smart Contracts**
-   - Developed in Ralph, following Alephium team best practices.
+## **Smart Contracts**
+   - Ralph language, aligned with Alephium team best practices, is used to develop robust smart contracts, ensuring high security and efficiency.
    - Key Contracts:
-     - SaleFactory: Manages listing fees and initializes sale contracts.
-     - FlatPriceSale: Serves as a template for the initial sale type.
-     - ClaimToken: Represents interim ownership and facilitates token swapping.
-     - PadToken: The launchpad's native token.
-     - Staking: Allows token staking for earning revenue and receiving discounts.
+     - SaleManager: Manages listing fees and initializes sale contracts.
+     - SaleFlatPriceAlph: Manages a flat price token sale with optional whitelist.
+     - RewardDistributor: Manages a rotating schedule of reward distribution over fixed epochs.
+     - Staking: Manages the staking process of tokens, including handling rewards, unstaking, and withdrawing staked assets.
+     - ApadToken: The launchpad's native token.
 
-## 2. **Dapp Frontend**
-   - Developed using ReactJS with NextJS.
-   - Incorporates Alph's prebuilt components.
+## **Dapp Frontend**
+   - Utilizing ReactJS and NextJS, the frontend is developed for optimal performance and scalability.
+   - Integrates Alph's prebuilt components to maintain consistency and leverage existing frameworks.
 
-## 3. **UI/UX**
-   - Emphasis on a great user experience.
-   - The interface is designed to be simultaneously minimalist and informative.
-   - Adheres to the Alephium design language.
+## **Worker**
+   - A NodeJS-based cloud worker responsible for handling whitelist registrations and generating proofs essential for the whitelisting system’s integrity and efficiency.
 
-## 4. **Testing**
-   - Extensive automation tests.
-   - Manual testing on the testnet to ensure a high-quality product.
+## **Status Page**
+   - A unique feature within the Dapp frontend, providing a comprehensive overview of all contracts and their statuses, enhancing transparency and user understanding.
 
-## 5. **Documentation**
-   - A static documentation page will be created, explaining all processes in-depth.
-   - Always public and visible to everyone.
+## **UI/UX**
+   - Designed with a focus on delivering an exceptional user experience, combining minimalism with informative content.
+   - Reflects Alephium's design ethos, balancing aesthetics with functionality.
 
-## 6. **Website**
-   - Development of a static HTML website to serve as the project's landing page.
+## **Testing**
+   - Rigorous automated testing complemented by manual testnet trials ensures that each product component meets the highest quality standards.
 
-## 7. **Source Code**
-   - Open-source code published on GitHub with the MIT License.
+## **Documentation**
+   - Comprehensive and publicly accessible static documentation pages provide in-depth explanations of processes, fostering transparency and user education.
 
-## 8. **Audits**
-   - Audits performed by the Alephium team to ensure high-level security.
+## **Website**
+   - The ReactJS and NextJS-based website serves as a dynamic and engaging landing page for the project, providing essential information and updates.
 
-## 9. **Infrastructure**
-   - Aiming for 100% serverless architecture.
-   - All frontends served statically from Cloudflare pages.
-   - Analytics sourced from on-chain data and events emitted by the contracts.
+## **Source Code**
+   - AlphPad adheres to open-source principles with a nuanced approach. The code will be published on GitHub under the MIT License, but only after a three-month delay post-launch. This strategy balances the need for competitive advantage with our commitment to community contribution and transparency. After this period, developers and users alike will have full access to the codebase, fostering community involvement and collaborative improvement.
 
+## **Audits**
+   - Our platform underwent a thorough audit to ensure top-notch security. You can read the detailed findings in our [Audit Report](https://github.com/alephium/ralph-security-checklist/blob/master/reports/AlphPad.md).
+
+
+## **Infrastructure**
+   - Robust infrastructure with frontends hosted on Cloudflare pages for high availability and performance.
+   - Analytics drawn directly from on-chain data, ensuring accurate and real-time insights.

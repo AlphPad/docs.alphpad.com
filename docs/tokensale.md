@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 title: Token Sale
 description: AlphPad The Premier Launchpad on Alephium - Elevating Projects to New Heights!
 ---
