@@ -1,11 +1,11 @@
 ---
-sidebar_position: 10
+sidebar_position: 11
 title: Grants
 description: AlphPad The Premier Launchpad on Alephium - Elevating Projects to New Heights!
 ---
 
 
-# AlphPad Grants Program
+# AlphPad Grants Program / Retired
 
 AlphPad Grants Program is designed to fuel innovation and support promising projects on the Alephium blockchain. This initiative aims to empower developers and entrepreneurs who share our vision of a decentralized future.
 

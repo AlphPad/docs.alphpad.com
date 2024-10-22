@@ -15,11 +15,12 @@ From its inception, AlphPad has been meticulously crafted to offer a robust and 
 ## Key Features and Functionalities
 - **Token Launchpad:** AlphPad's primary offering is its launchpad for IDOs, providing a reliable and transparent platform for emerging blockchain projects.
 - **Reward Distribution Mechanism:** A standout feature of AlphPad is its reward distribution system, which accumulates rewards in a pool and disburses them over 100 days. This approach ensures a fair and sustained reward flow to participants.
-- **Staking Dynamics:** The platform introduces a 10-day unstaking period, a measure designed to enhance staking security and manage liquidity efficiently.
-- **Revenue Sharing Model:** Stakers earn 5% of all funds raised through successful IDOs on the platform, directly tying their rewards to its success. The remaining 95% goes to the IDO sellers. Additionally, all listing fees are fully distributed to the stakers, further incentivizing their contribution to the platform's growth.
+- **Vault Benefits:**  AlphPad includes benefits for participants in the Vault during platform token sales. Every project launching on AlphPad is required to incorporate the Vault tiers, ensuring that participants receive tier-based incentives and exclusive early access. 
+- **Vault Dynamics:** The platform introduces a 10-day unlocking period, a measure designed to enhance vault security and manage liquidity efficiently.
+- **Revenue Sharing Model:** Vault participants earn 5% of all funds raised through successful IDOs on the platform, directly tying their rewards to its success. The remaining 95% goes to the IDO sellers. Additionally, all listing fees are fully distributed to the vault participants, further incentivizing their contribution to the platform's growth.
 - **Governance and Protocol Changes:** In a bid to ensure community involvement in governance, AlphPad introduces a 14-day delay in implementing protocol changes, allowing ample time for community review and feedback.
 - **Team Token Vesting:** Aligning with long-term project success, team tokens are vested linearly over a four-year period, ensuring a sustained commitment to the platform's growth.
-- **Case-by-Case Staker Benefits:** AlphPad considers additional benefits for stakers during platform token sales, aiming to tailor incentives to specific project needs and contexts.
+
 
 ## Community-Centric Approach
 AlphPad's success is rooted in its community-driven approach. Regular engagement through updates, polls, and interactive feedback sessions has enabled the platform to evolve in alignment with user needs and aspirations. This focus on community input has been a cornerstone, helping to shape everything from feature development to strategic decision-making, ensuring that AlphPad remains responsive and relevant to its user base.

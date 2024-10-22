@@ -1,10 +1,10 @@
 ---
 sidebar_position: 7
-title: Staking
+title: Vault
 description: AlphPad The Premier Launchpad on Alephium - Elevating Projects to New Heights!
 ---
 
-# Staking
+# Vault
 
 Staking on AlphPad isn't just holding tokens; it's about being an active participant in the ecosystem’s growth and sharing in its success. Here’s how staking benefits both the stakers and the platform:
 
