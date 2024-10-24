@@ -12,7 +12,7 @@ description: AlphPad The Premier Launchpad on Alephium - Elevating Projects to N
      - SaleManager: Manages listing fees and initializes sale contracts.
      - SaleFlatPriceAlph: Manages a flat price token sale with optional whitelist.
      - RewardDistributor: Manages a rotating schedule of reward distribution over fixed epochs.
-     - Staking: Manages the staking process of tokens, including handling rewards, unstaking, and withdrawing staked assets.
+     - Staking: Manages the locking process of tokens, including handling rewards, unlocking, and withdrawing locked assets.
      - ApadToken: The launchpad's native token.
 
 ## **Dapp Frontend**
